@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b410d05-ce86-474c-ae8d-92e5cf71c0a6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Recipe-RestAPI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Recipe-RestAPI.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/app/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +68,8 @@
       <workItem from="1655109797371" duration="2828000" />
       <workItem from="1655184644045" duration="2768000" />
       <workItem from="1655190897761" duration="3812000" />
-      <workItem from="1655272467994" duration="1770000" />
+      <workItem from="1655272467994" duration="3595000" />
+      <workItem from="1655292791150" duration="2428000" />
     </task>
     <servers />
   </component>
