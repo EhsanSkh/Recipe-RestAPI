@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="5b410d05-ce86-474c-ae8d-92e5cf71c0a6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/core/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,10 +46,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../project (me)/app_core/admin.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/core/managment/commands" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\python\Course\django\rest-api-mark-advanced\Recipe-RestAPI\app\core\managment\commands" />
+      <recent name="G:\python\Course\django\rest-api-mark-advanced\Recipe-RestAPI\app\core\managment" />
       <recent name="G:\python\Course\django\rest-api-mark-advanced\Recipe-RestAPI\app\core\tests" />
     </key>
   </component>
@@ -63,7 +68,8 @@
       <workItem from="1655108451681" duration="946000" />
       <workItem from="1655109797371" duration="2828000" />
       <workItem from="1655184644045" duration="2768000" />
-      <workItem from="1655190897761" duration="1162000" />
+      <workItem from="1655190897761" duration="3812000" />
+      <workItem from="1655272467994" duration="1457000" />
     </task>
     <servers />
   </component>
