@@ -3,11 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="5b410d05-ce86-474c-ae8d-92e5cf71c0a6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/core/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/core/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/core/tests/test_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/tests/test_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/recipes/tests/test_tags_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/recipes/tests/test_tags_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/recipes/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/recipes/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/recipes/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/recipes/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +71,7 @@
       <workItem from="1655272467994" duration="3595000" />
       <workItem from="1655292791150" duration="4823000" />
       <workItem from="1655313922003" duration="80000" />
-      <workItem from="1655363492045" duration="3617000" />
+      <workItem from="1655363492045" duration="4452000" />
     </task>
     <servers />
   </component>
