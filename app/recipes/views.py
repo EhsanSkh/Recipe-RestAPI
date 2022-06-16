@@ -24,3 +24,17 @@ class TagViewSet(BaseRecipeAttrViewSet):
 class IngredientViewSet(BaseRecipeAttrViewSet):
     serializer_class = serializers.IngredientSerializer
     queryset = models.Ingredient.objects.all()
+
+
+class RecipeViewSet(viewsets.ModelViewSet):
+    authentication_classes = [TokenAuthentication]
+    permission_classes = [IsAuthenticated]
+    queryset = models.Recipe.objects.all()
+
+    def get_queryset(self):
+        return self.queryset.filter(user=self.request.user).order_by("-id")
+
+    def get_serializer_class(self):
+        if self.action == "retrieve":
+            return serializers.RecipeDetailSerializer
+        return serializers.RecipeSerializer
